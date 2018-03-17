@@ -9,7 +9,7 @@ npm i
 
 ## Run
 ```sh
-npm run
+npm start
 ```
 and see in you brouser http://localhost:3000/
 
